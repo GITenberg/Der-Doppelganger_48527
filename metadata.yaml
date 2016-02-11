@@ -1,0 +1,34 @@
+_repo: Der-Doppelganger_48527
+contributor:
+  translator:
+    agent_name: Röhl, Hermann
+    aliases:
+    - Rohl, Hermann
+    - Röhl, H. (Hermann)
+    gutenberg_agent_id: '36296'
+    url: http://www.gutenberg.org/2009/agents/36296
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2015-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48527'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Der Doppelgänger
+url: http://www.gutenberg.org/ebooks/48527
